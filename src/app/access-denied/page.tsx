@@ -1,5 +1,5 @@
 import React from "react";
 
-export const AccessDeniedPage = () => {
+export default function AccessDeniedPage() {
     return <div>Access Denied</div>;
 }
